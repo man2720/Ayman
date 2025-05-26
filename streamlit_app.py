@@ -8,5 +8,5 @@ st.write(
     "ini adalah foto foto kenangan di kelas X-I"
 )
 st.image(
-    "IMG-20250505-WA0000.jpg", width=200
+    "IMG-20250505-WA0000.jpg",width=200
 )
