@@ -4,3 +4,9 @@ st.title("---selamat datang---")
 st.write(
     "Ini adalah website yang di buat untuk melengkapi tugas infomatika Ayman Zaber Oemar."
 )
+st.write(
+    "ini adalah foto foto kenangan di kelas X-I"
+)
+st.image(
+    
+)
