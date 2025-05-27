@@ -14,6 +14,6 @@ angka = st.number_input("Tulis Sebuah Angka:", value=0, step=1)
 if (angka % 2) == 0:
   st.write(f"{angka} adalah Bilangan Genap")
 else:
-  st.white(f"{angka} adalah bilangan Ganjil")
+  st.write(f"{angka} adalah bilangan Ganjil")
 
 
