@@ -6,3 +6,5 @@ st.write("mbe")
 st.image("IMG-20250505-WA0000.jpg",width=200)
 st.write("kurban tentar lagi euyy")
 st.write("eid Mubarak")
+
+
